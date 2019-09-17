@@ -45,4 +45,11 @@ Hello! My name is Anastasia and I really want to become a front-end developer. I
       <% end %>
       
       <%= render "devise/shared/links" %></addr>
-      
+
+##Experience
+Period | Position | Company
+------------ | -------------| -------------|
+February 2012 - November 2013|       Manager | Avtovazbank
+November 2013 - September 2019| Salary project manager | Promsvyazbank
+June 2019 - September 2019 | QA | Yandex 
+September 2019 - Present | QA | Mercury Development       
