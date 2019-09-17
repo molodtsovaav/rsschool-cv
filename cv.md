@@ -52,4 +52,12 @@ Period | Position | Company
 February 2012 - November 2013|       Manager | Avtovazbank
 November 2013 - September 2019| Salary project manager | Promsvyazbank
 June 2019 - September 2019 | QA | Yandex 
-September 2019 - Present | QA | Mercury Development       
+September 2019 - Present | QA | Mercury Development     
+
+##Education     
+Period | University| degree
+------------ | -------------| -------------| 
+2007 - 2012| Samara State University of Economics| Economist
+
+##English
+Intermediate  
